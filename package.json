@@ -4,9 +4,9 @@
   "description": "WebExtension allowing you to quickly bookmark pages to a default bookmark location via a dedicated icon. Some optional advanced features are also available.",
   "main": "background.js",
   "scripts": {
-    "lint:all": "eslint --config .eslintrc.json src/**/*.js test/**/*.js",
+    "lint:all": "eslint --config .eslintrc.json src/**/*.js",
     "lint:file": "eslint --config .eslintrc.json",
-    "fix:all": "eslint --config .eslintrc.json src/**/*.js test/**/*.js --fix",
+    "fix:all": "eslint --config .eslintrc.json src/**/*.js --fix",
     "fix:file": "eslint --config .eslintrc.json --fix",
     "start:firefox": "web-ext run --source-dir ./src/ --devtools --firefox=firefox",
     "start:deved": "web-ext run --source-dir ./src/ --devtools --firefox=deved",
