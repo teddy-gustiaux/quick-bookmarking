@@ -61,7 +61,6 @@ Please refer to the <a href="https://github.com/teddy-gustiaux/quick-bookmarking
 - [Bulma Switch Extension](https://github.com/Wikiki/bulma-switch)
 
 *Icons:*
-- [Extension icon](https://www.flaticon.com/free-icon/bookmark_150854) made by [Smashicons](https://www.flaticon.com/authors/smashicons) from [Flaticon](https://www.flaticon.com) is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/).
 - [Extension/Bookmark icon](https://www.flaticon.com/free-icon/star-button_69468) made by [Bogdan Rosu](https://www.flaticon.com/authors/bogdan-rosu) from [Flaticon](https://www.flaticon.com) is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/).
 - [Cross icon](https://www.flaticon.com/free-icon/settings_128531) made by [Eleonor Wang](https://www.flaticon.com/authors/eleonor-wang) from [Flaticon](https://www.flaticon.com) is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/).
 
