@@ -9,7 +9,7 @@ class ManifestBuilder {
 
 	get baseValues() {
 		return {
-			manifest_version: 3,
+			manifest_version: 2,
 			name: 'Quick Bookmarking',
 			author: 'Teddy Gustiaux',
 			version: '1.0.0',
@@ -80,7 +80,7 @@ class ManifestBuilder {
 			browser_specific_settings: {
 				gecko: {
 					id: 'quick-bookmarking@gustiaux.com',
-					strict_min_version: '113.0',
+					strict_min_version: '102.0',
 				},
 			},
 		};
